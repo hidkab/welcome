@@ -6,3 +6,8 @@ javaScript
 php
 sql
 
+# les outils utilsé en dev
+GIT 
+Symfony
+REACT
+MySQL
